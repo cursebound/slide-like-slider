@@ -1,1 +1,1 @@
-# slide-like-slider
+https://cursebound.github.io/slide-like-slider/
